@@ -23,6 +23,16 @@ Problem: In some countries like India,where agriculture is
 the backbone of the economy illiterate farmers faces
 a lot of inconveniences and problems.
 "Disease vs crops" is burning topic right now.
+When any sort of bacteria,fungi, nematodes or biotic agents
+attack the plants,37% of Indian farmers refuse to
+go to laboratories,test them and apply the best
+cure.Cause it's consuming time, money and energy.
+
+Instead they are ready to invest bags of fertilizer, pesticides even
+vitamins.This will make the crops bright and beautiful in the eyes of this
+1.3 billion population but it is indeed a dome of poisonous substances,
+causing deformaties,cancers, pollutions nad and all.
+
 
 
   </html>

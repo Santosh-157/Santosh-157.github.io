@@ -16,4 +16,13 @@ GitHub platform in creating and designing your own web
 sites.
 
 
+PROJECTS:
+project name: Smart farming
+
+Problem: In some countries like India,where agriculture is
+the backbone of the economy illiterate farmers faces
+a lot of inconveniences and problems.
+"Disease vs crops" is burning topic right now.
+
+
   </html>
